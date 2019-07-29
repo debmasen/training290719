@@ -1,2 +1,7 @@
 # training290719
-GIT Training 
+
+## Branching Model
+
+1. Master Branch 
+
+2. Dev Branch
